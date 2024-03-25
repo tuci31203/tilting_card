@@ -26,3 +26,7 @@ or download the code zip then run it though live server of VS Code.
 ## Usage <a name = "usage"></a>
 
 This is a simple and fun card that tilts according to your mouse position.
+
+## Acknowledgement
+
+Kudos to the amazing [Kevin Powell](https://www.youtube.com/@KevinPowell)
